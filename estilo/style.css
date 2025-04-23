@@ -18,8 +18,8 @@ body{
     font-family: sriracha, cursive;
 }
 header{
-    background: black;
-    color: white;
+    background: rgba(148, 101, 101, 0.765);
+    color: black;
     text-align: center;
     
 }
