@@ -3,26 +3,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
-#{
-    padding: 0px;
-    border: 0px;
-}
 .root{
     --fonte01: Verdana, Geneva, Tahoma, sans-serif;
     --fonte02: "Passion One", sans-serif;
-    --fonte03: 'Sriracha',Cursive;
+    
 } 
 
 body{
     background-color: darkgray;
-    font-family: sriracha, cursive;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: -1px;
+    border: 0px;
 }
 header{
     background: rgba(148, 101, 101, 0.765);
+    font-family: sriracha, cursive;
     color: black;
     text-align: center;
     
 }
 nav{
     text-align: center;
+    text-decoration: none;
 }
