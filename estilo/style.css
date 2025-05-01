@@ -6,9 +6,7 @@
 .root{
     --fonte01: Verdana, Geneva, Tahoma, sans-serif;
     --fonte02: "Passion One", sans-serif;
-    
-} 
-
+    } 
 body{
     background-color: darkgray;
     font-family: Arial, Helvetica, sans-serif;
@@ -16,7 +14,7 @@ body{
     border: 0px;
 }
 header{
-    background: rgba(148, 101, 101, 0.765);
+    background-color: rgba(124, 84, 68, 0.786);
     font-family: sriracha, cursive;
     color: black;
     text-align: center;
